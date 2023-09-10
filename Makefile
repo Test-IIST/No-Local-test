@@ -1,7 +1,7 @@
 a.out:
-	gcc student.cpp
+	gcc Student.cpp
 
 clean:
-	rm student
+	rm Student
 
 test: a.out
